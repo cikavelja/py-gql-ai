@@ -1,0 +1,8 @@
+fastapi
+strawberry-graphql
+sqlalchemy
+asyncpg
+pydantic
+pyjwt
+bcrypt
+sentence-transformers
